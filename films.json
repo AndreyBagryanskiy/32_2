@@ -1,11 +1,61 @@
-{"Actors":{
-    "Aleksandr Bakhov":"Kryuk",
-    "Aleksey Vertkov":"Ivan Naydenov",
-    "Gerasim Arkhipov":"Captain Sharipov",
-    "Vitali Kishchenko":"Major Fedotov"},
-"Country":"Russia",
-"Directed by":"Karen Shakhnazarov",
-"Film name":"White Tiger (2012 film)",
-"Production companies":"Mosfilm",
-"Release date":"2023/10/08",
-"Screenplay by":"Aleksandr Borodyansky"}
+{
+"White Tiger (2012 film)":{"Actors":{
+        "Aleksandr Bakhov":"Kryuk",
+        "Aleksey Vertkov":"Ivan Naydenov",
+        "Gerasim Arkhipov":"Captain Sharipov",
+        "Vitali Kishchenko":"Major Fedotov"},
+    "Country":"Russia",
+    "Directed by":"Karen Shakhnazarov",
+    "Film name":"White Tiger (2012 film)",
+    "Production companies":"Mosfilm",
+    "Release date":"2012/05/03",
+    "Screenplay by":"Aleksandr Borodyansky"},
+
+"Deadpool":{"Actors":{
+        "Ryan Reynolds":"Wade Wilson / Deadpool:",
+        "Morena Baccarin":"Vanessa",
+        "Ed Skrein":"Francis Freeman / Ajax",
+        "Tim Miller":"Weasel"},
+    "Country":"United States",
+    "Directed by":"Tim Miller",
+    "Film name":"Deadpool",
+    "Production companies":"20th Century Fox",
+    "Release date":"2016/02/08",
+    "Screenplay by":"Rhett Reese"},
+
+"Forrest Gump":{"Actors":{
+        "Tom Hanks":"Forrest Gump",
+        "Robin Wright":"Jenny Curran",
+        "Gary Sinise":" Lieutenant",
+        "Mykelti Williamson":"Benjamin Buford"},
+    "Country":"United States",
+    "Directed by":"Robert Zemeckis",
+    "Film name":"Forrest Gump",
+    "Production companies":"Paramount Pictures",
+    "Release date":"1994/07/23",
+    "Screenplay by":"Eric Roth"},
+
+"The Green Mile":{"Actors":{
+        "Tom Hanks":"Paul Edgecomb",
+        "David Morse":"Brutus",
+        "Michael Clarke Duncan":"John Coffey",
+        "James Cromwell":"Warden Hal Moores"},
+    "Country":"United States",
+    "Directed by":"Frank Darabont",
+    "Film name":"The Green Mile",
+    "Production companies":"Universal Pictures",
+    "Release date":"1999/12/10",
+    "Screenplay by":"Frank Darabont"},
+
+"Peculiarities of the National Hunt":{"Actors":{
+        "Ville Haapasalo":"Raivo the Student",
+        "Aleksey Buldakov":"General Ivolgin (simply Mikhalych)",
+        "Viktor Bychkov":"Kuzmich the Jager",
+        "Semyon Strugachyov":"CID officer Lyova Soloveychik"},
+    "Country":"Russia",
+    "Directed by":"Aleksandr Rogozhkin",
+    "Film name":"Peculiarities of the National Hunt",
+    "Production companies":"Lenfilm",
+    "Release date":"1995/01/01",
+    "Screenplay by":"Aleksandr Rogozhkin"}
+}
