@@ -1,0 +1,10 @@
+build/.cmake/
+build/CMakefiles/
+build/nlohmann_json/
+*.cmake
+*.txt
+build/*.json
+!build/films.json
+build/Makefile
+build/*.exe
+
